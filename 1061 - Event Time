@@ -3,7 +3,8 @@ public class Main {
 
 	public static void main(String[] args) {
 
-		======= This is - FROM THE INTERNET ======= 
+		======= This is - FROM THE INTERNET =======
+		=======   I DON'T HAVE ANSWERS YET  =======
 		Scanner sc = new Scanner(System.in);
 		
         	String s_day, s_time, e_day, e_time;
