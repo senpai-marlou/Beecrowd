@@ -15,13 +15,13 @@ public class Main {
 		if (start <= 24 && end <= 24 && start >= 0 && end >= 0) {
 			if (end > start) {
 				time = end - start; 
-			}
-            
-			else if (end < start || end == start) {
-              time = (end - start) + 24;
-			}
+		}
+			
+		else if (end < start || end == start) {
+              		time = (end - start) + 24;
+		}
 			System.out.println("O JOGO DUROU "+ time +" HORA(S)");				
-       		 }				
+       		}				
 
 	}
 
