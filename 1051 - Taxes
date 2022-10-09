@@ -14,8 +14,8 @@ public class Main {
  		float total = 0;
 		
 		if (salary >= 0 && salary <= 2000) {
-            System.out.println("Isento");
-        }
+            	System.out.println("Isento");
+        	}
 		if (salary > 2000 && salary <= 3000) {
 			num1 = salary - 2000;
 			num2 = (float) (num1 * 0.08);
